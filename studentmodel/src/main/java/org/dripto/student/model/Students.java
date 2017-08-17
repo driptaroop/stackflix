@@ -1,5 +1,4 @@
-package org.dripto.student.data.model;
-
+package org.dripto.student.model;
 import lombok.Builder;
 import lombok.Data;
 

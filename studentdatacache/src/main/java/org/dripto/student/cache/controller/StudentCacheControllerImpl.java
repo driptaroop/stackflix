@@ -1,7 +1,8 @@
 package org.dripto.student.cache.controller;
 
-import org.dripto.student.cache.model.Students;
-import org.dripto.student.cache.model.Student;
+
+import org.dripto.student.model.Student;
+import org.dripto.student.model.Students;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

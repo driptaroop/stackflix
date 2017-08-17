@@ -1,4 +1,4 @@
-package org.dripto.student.cache.model;
+package org.dripto.student.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

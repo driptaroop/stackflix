@@ -1,7 +1,8 @@
 package org.dripto.student.data.controller;
 
-import org.dripto.student.data.model.Student;
-import org.dripto.student.data.model.Students;
+
+import org.dripto.student.model.Student;
+import org.dripto.student.model.Students;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
