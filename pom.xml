@@ -6,6 +6,7 @@
     <version>0.1</version>
     <modules>
         <module>studentdatasource</module>
+        <module>studentdatacache</module>
     </modules>
     <packaging>pom</packaging>
     <name>stackflix</name>
