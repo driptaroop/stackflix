@@ -1,0 +1,11 @@
+zuul:
+  prefix: /api
+  routes:
+    ss:
+      path: /getStudentDetails/**
+      url: http://localhost:9090/getStudentDetails
+    sscache:
+      path: /getStudentDetailsFromCache/**
+      url: http://localhost:9091/getStudentDetailsFromCache
+server:
+  port: 8080
