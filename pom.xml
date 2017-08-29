@@ -10,6 +10,7 @@
         <module>studentdatacache</module>
         <module>studentapi</module>
         <module>studentedgeserver</module>
+        <module>eurekaserver</module>
     </modules>
     <packaging>pom</packaging>
     <name>stackflix</name>
